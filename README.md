@@ -14,3 +14,6 @@ O estudo de caso vai ser em cima de uma aplicação de PetShop, seguem os requis
 8. Cadastro de horários disponíveis de um tosador;
 9. Cadastro de horários disponíveis de um veterinário;
 10. Pesquisa de satisfação;
+
+## Arquitetura Hexagonal
+![Diagrama da Arquitetura Hexagonal](https://miro.medium.com/max/8470/1*NfFzI7Z-E3ypn8ahESbDzw.png)
