@@ -17,3 +17,12 @@ O estudo de caso vai ser em cima de uma aplicação de PetShop, seguem os requis
 
 ## Arquitetura Hexagonal
 ![Diagrama da Arquitetura Hexagonal](https://miro.medium.com/max/8470/1*NfFzI7Z-E3ypn8ahESbDzw.png)
+
+## Historia
+| ano  | nome | autor |
+|------|------|-------|
+| 1970 | [model view controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller#History) | [Trygve Reenskaug](https://en.wikipedia.org/wiki/Trygve_Reenskaug)
+| 1996 | [multilayered architecture](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff650258%28v%3dpandp.10%29) | [multiplo](https://web.archive.org/web/20080616095449/http://www.hillside.net/patterns/books/Siemens/abstracts.html)
+| 2005 | [hexagonal architecture](https://web.archive.org/web/20180822100852/http://alistair.cockburn.us/Hexagonal+architecture) | [Alistair Cockburn](https://en.wikipedia.org/wiki/Alistair_Cockburn)
+| 2008 | [onion architecture](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/) | [Jeffrey Palermo](https://jeffreypalermo.com/about/)
+| 2012 | [clean architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) | [Uncle Bob](https://en.wikipedia.org/wiki/Robert_C._Martin)
